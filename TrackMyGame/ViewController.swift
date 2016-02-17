@@ -4,7 +4,6 @@
 //
 //  Created by Ricardo Lopes on 2/17/16.
 //  Copyright © 2016 Ricardo Lopes. All rights reserved.
-//
 
 import UIKit
 
